@@ -27,11 +27,11 @@ COMPONENTS
 
 -Breadboard
 
--	Resistor 10K -(2)
+-Resistor 10K -(2)
 
--	Resistor 100ohm
+-Resistor 100ohm
 
--	Capacitor 10uF
+-Capacitor 10uF
 
 LIBRARIES
 
