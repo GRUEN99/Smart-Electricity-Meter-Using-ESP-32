@@ -5,13 +5,13 @@ This project is a smart electricity meter using an ESP32 microcontroller. It mea
 
 FEATURES
 
-=>Measures and displays voltage (Vrms), current (Irms), and power (W).
+-Measures and displays voltage (Vrms), current (Irms), and power (W).
 
-=>Calculates and displays energy consumption in kWh.
+-Calculates and displays energy consumption in kWh.
 
-=>Sends real-time data to the Blynk platform for remote monitoring.
+-Sends real-time data to the Blynk platform for remote monitoring.
 
-=>Displays data on a 16x2 I2C LCD screen.
+-Displays data on a 16x2 I2C LCD screen.
 
 COMPONENTS
 
