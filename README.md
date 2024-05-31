@@ -13,6 +13,7 @@ FEATURES
 
 -Displays data on a 16x2 I2C LCD screen.
 
+
 COMPONENTS
 
 -ESP32 microcontroller
@@ -33,6 +34,7 @@ COMPONENTS
 
 -Capacitor 10uF
 
+
 LIBRARIES
 
 Ensure you have the following libraries installed in your Arduino IDE:
@@ -42,6 +44,7 @@ Ensure you have the following libraries installed in your Arduino IDE:
 -BlynkSimpleEsp32: Blynk library for ESP32.
 
 -LiquidCrystal_I2C: Library for I2C LCD displays.
+
 
 BLYNK CONFIGURATION
 
@@ -57,6 +60,8 @@ BLYNK CONFIGURATION
 
 -Gauge for Energy (kWh) connected to virtual pin V3.
 
-3.Copy the Blynk Authentication Token from the app and update the cod
+3.Copy the Blynk Authentication Token from the app and update the code.
+
+The final working model's picture is uploaded in the file called result.
 
 
